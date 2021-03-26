@@ -1,0 +1,10 @@
+body {
+  display: grid;
+  place-content: center;
+  background: black;
+  color: white;
+}
+
+h1 {
+  text-decoration: underline;
+}
